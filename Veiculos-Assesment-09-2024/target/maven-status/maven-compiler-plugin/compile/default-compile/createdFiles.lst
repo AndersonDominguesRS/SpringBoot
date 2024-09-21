@@ -1,0 +1,8 @@
+com\example\veiculosassesment092024\repository\VeiculoRepository.class
+com\example\veiculosassesment092024\service\VeiculoService.class
+com\example\veiculosassesment092024\payload\MessagePayload.class
+com\example\veiculosassesment092024\exception\ResourseNotFoundException.class
+com\example\veiculosassesment092024\VeiculosAssesment092024Application.class
+com\example\veiculosassesment092024\controller\VeiculoController.class
+com\example\veiculosassesment092024\model\Veiculo.class
+com\example\veiculosassesment092024\enun\EstadoEnun.class
